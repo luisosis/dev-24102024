@@ -1,0 +1,12 @@
+com\todocodeacademy\project_base\model\Duenio.class
+com\todocodeacademy\project_base\repository\IDuenioRepository.class
+com\todocodeacademy\project_base\service\IDuenioService.class
+com\todocodeacademy\project_base\repository\IMascotaRepository.class
+com\todocodeacademy\project_base\service\MascotaService.class
+com\todocodeacademy\project_base\DemoApplication.class
+com\todocodeacademy\project_base\model\Mascota.class
+com\todocodeacademy\project_base\controller\DuenioController.class
+com\todocodeacademy\project_base\service\IMascotaService.class
+com\todocodeacademy\project_base\service\DuenioService.class
+com\todocodeacademy\project_base\dto\MascoDuenioDTO.class
+com\todocodeacademy\project_base\controller\MascotaController.class
